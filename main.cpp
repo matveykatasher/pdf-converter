@@ -1,5 +1,3 @@
-# файл: pdf_converter.py
-
 import os
 from PyPDF2 import PdfReader
 from docx import Document
